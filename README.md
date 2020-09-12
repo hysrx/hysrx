@@ -1,6 +1,6 @@
 # hysrx (highsource)
 
-> I do too many things, I need a break.
+> I make code that I know nobody will ever use, but develop as people would use it. May be bad practice, but I like a good challenge.
 
 Hi! I'm an beginner-intermediate Python developer and a weeb.
 
