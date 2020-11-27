@@ -6,8 +6,9 @@ Hi! I'm an beginner-intermediate Python developer and a weeb.
 
 ## Trivia
 
+- Started Python in May 2020
 - 150 Pluralsight IQ for Python
-- Sole developer for the [InterestingSystems](https://github.com/InterestingSystems) repositories.
+- Sole developer for the [interestingimages](https://github.com/interestingimages) repositories.
 - Privacy enthusiast
 - Attempting to to learn JavaScript and C#.
 
