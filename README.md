@@ -10,6 +10,6 @@ Hi! I'm an beginner-intermediate Python developer and a weeb.
 - 150 Pluralsight IQ for Python
 - Sole developer for the [interestingimages](https://github.com/interestingimages) repositories.
 - Privacy enthusiast
-- Attempting to to learn JavaScript and C#.
+- Attempting to to learn JavaScript, TypeScript, C and C#.
 
 ...and that's about it. You're better off clicking somewhere else.
