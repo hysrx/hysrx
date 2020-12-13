@@ -1,4 +1,4 @@
-# hysrx (haɪsɔːs)
+# hysrx - /haɪsɔːrs/
 
 > I make code that I know nobody will ever use, but develop as people would use it. May be bad practice, but I like a good challenge.
 
